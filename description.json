@@ -1,0 +1,10 @@
+{
+  "name": "Mendeley Citation Insert",
+  "version": "0.1.1",
+  "identifier": "org.example.mendeleycite",
+  "title": "Insert Mendeley Citations",
+  "author": "Your Name",
+  "homepage": "https://github.com/yourname/mendeley_cite",
+  "categories": ["productivity","office","reference"],
+  "short_description": "Inserts a citation from Mendeley at the current cursor."
+}
