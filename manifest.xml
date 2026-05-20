@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest:manifest
+    xmlns:manifest="urn:demo:libreoffice:extension:manifest"
+    xmlns:oor="urn:oasis:names:tc:opendocument:xmlns:office:1.0"
+    xmlns:unot="urn:unopkg:org:libreoffice:extension:component"
+    xmlns:unoversion="urn:unopkg:org:libreoffice:extension:component:version">
+
+  <manifest:component
+      type="python"
+      name="mendeley_cite.CiteExtension"
+      version="0.1"
+      UNO-qualified-name="com.example.mendeleycite.CiteExtension">
+    <manifest:property name="implementation-name" type="string" value="mendeley_cite"/>
+  </manifest:component>
+
+</manifest:manifest>
